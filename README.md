@@ -1,1 +1,1 @@
-# Hadoop_Map_reduce_Sum
+# Hadoop_Map_Reduce_Sum
